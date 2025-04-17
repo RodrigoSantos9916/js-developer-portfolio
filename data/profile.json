@@ -1,78 +1,115 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Rodrigo dos Santos Cavalcante",
+  "job": "Desenvolvedor Jr",
+  "location": "Fortaleza CE",
+  "phone": "(85) 99916-2575",
+  "email": "rodrigocavalcante.dev.software@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Proatividade e iniciativa",
+      "Comunicação clara e eficaz",
       "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Facilidade de aprendizado",
+      "Organização e responsabilidade",
+      "Atenção aos detalhes",
+      "Resolução de problemas",
+      "Adaptabilidade a mudanças",
+      "Empatia no atendimento ao cliente",
+      "Capacidade de trabalhar sob pressão",
+      "Pontualidade e comprometimento",
+      "Ética profissional",
+      "Foco em resultados",
+      "Inteligência emocional"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Página da SOS Auto",
+      "url": "https://github.com/RodrigoSantos9916/SOS---Auto.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Clone HBO Max",
+      "url": "https://github.com/RodrigoSantos9916/clone-hbomax.git",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/RodrigoSantos9916/PokedexDio.git",
+      "github": true
+    },
+    {
+      "name": "Página das Indústrias Wayne",
+      "url": "https://github.com/RodrigoSantos9916/Wayne-industries.git",
+      "github": true
+    },
+    {
+      "name": "Clonando Discord",
+      "url": "https://github.com/RodrigoSantos9916/clonando-discord.git",
+      "github": true
+    },
+    {
+      "name": "Página Coffee-Shop",
+      "url": "https://github.com/RodrigoSantos9916/Coffee-Shop.git",
+      "github": true
+    },
+    {
+      "name": "Página Inicial do Youtube",
+      "url": "https://github.com/RodrigoSantos9916/pagina-inicial-do-youtube.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Vendedor de Calçados / Centauro",
+      "period": "Mar 2024 - Atual",
+      "description": "Atuei no atendimento ao cliente com foco em identificar necessidades e oferecer o produto ideal, realizando demonstração de calçados e orientando sobre conforto, durabilidade e estilo. Também fui responsável pela organização das vitrines, contribuindo para um ambiente atrativo. Realizei o controle de estoque, reposição de produtos e finalização de vendas no sistema de PDV, incluindo a emissão de notas fiscais. Alcancei metas individuais, além de ofertar produtos complementares como meias e acessórios, sempre visando a satisfação e fidelização do cliente."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Vendedor de Calçados / World Tennis",
+      "period": "Mar 2023 - Jan 2024",
+      "description": "Responsável por oferecer um atendimento personalizado, buscando entender as preferências dos clientes para recomendar calçados adequados em conforto, durabilidade e estilo. Colaborei ativamente na organização da loja, mantendo vitrines e prateleiras bem apresentadas. Auxiliei no controle e reposição de estoque, participei de campanhas promocionais e cumpri metas de vendas com consistência. Também realizei processos de finalização e venda de itens complementares, como meias e acessórios, contribuindo para uma experiência de compra completa e satisfatória."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Assistente de Loja / Centauro",
+      "period": "Mai 2022 - Fev 2023",
+      "description": "Fui responsável pela organização do ambiente, reposição de mercadorias, precificação de produtos. Ofereci apoio às vendas, direcionando clientes aos vendedores, esclarecendo dúvidas sobre produtos e auxiliando no processo de finalização de compras. Colaborei para manter a loja limpa, organizada e com excelente apresentação visual, sempre com foco em agilidade, proatividade e bom relacionamento com a equipe e os clientes."
+    },
+    {
+      "name": "Salva-Vidas / Beach Park",
+      "period": "Nov 2018 - Set 2020",
+      "description": "Atuei como instrutor de brinquedos inicialmente, orientando os visitantes sobre o uso correto e seguro das atrações, garantindo a diversão com responsabilidade. Realizei o controle de filas, monitoramento constante das atividades e ofereci suporte a crianças e adultos para prevenir acidentes. Trabalhei com atenção redobrada, empatia e comunicação clara para garantir que todos os usuários tivessem uma experiência segura e agradável, sempre seguindo os protocolos do parque. Fui promovido à função de guarda-vidas devido ao meu bom desempenho, responsabilidade e comprometimento com a segurança dos visitantes. Após treinamento específico, passei a monitorar áreas com piscinas e brinquedos de maior risco, realizando rondas preventivas, resgates quando necessário e aplicação dos procedimentos de primeiros socorros. Atuei com foco total na prevenção de acidentes, rápida tomada de decisão e trabalho em equipe, garantindo a integridade física dos frequentadores do parque."
+    }
+  ],
+  "education": [
+    {
+      "name": "Unifanor - Graduação em Engenharia de Software / Cursando",
+      "description": "Fortaleza CE - 2023"
+    },
+    {
+      "name": "Infinity School - Programação Full-Stack Python / Completo",
+      "description": "Fortaleza CE - 2024"
     }
   ]
 }
